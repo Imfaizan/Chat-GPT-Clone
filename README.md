@@ -27,15 +27,13 @@ Usage
 
 To start the React frontend of the Chat GPT Clone App, use the following command:
 
-arduino
-Copy code
+
 npm run start:frontend
 This will launch the application in your default web browser. You can interact with the chatbot interface and have conversations with the GPT-3.4 Turbo model.
 
 To start the Node.js backend server, open another terminal window and run the following command:
 
-arduino
-Copy code
+
 npm run start:backend
 The backend server will start running on the specified port, enabling communication between the frontend and the GPT-3.4 Turbo model.
 
